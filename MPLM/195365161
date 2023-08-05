@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T07:04:29.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s_Xp4LlBETpVCqVW0-p8" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T07:07:58.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dI3WZUwlwjSAX2ijMYQv" version="21.6.6" type="github">
   <diagram id="1vbyFyDNrjpOF-OisSmD" name="Страница 1">
     <mxGraphModel dx="2074" dy="2718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,15 +58,8 @@
         <mxCell id="tADJbYhTkMRDe6y0abn6-17" value="Изменение даты доставки" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" parent="tADJbYhTkMRDe6y0abn6-16" vertex="1">
           <mxGeometry x="545" y="60" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4iYqM_ZYdVpy_NGIDd0g-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="tADJbYhTkMRDe6y0abn6-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="110" as="sourcePoint" />
-            <mxPoint x="260" y="60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="110" />
-              <mxPoint x="210" y="60" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="dY8xq6k489kMnJCJNC_1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="tADJbYhTkMRDe6y0abn6-16">
+          <mxGeometry x="180" y="10" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tADJbYhTkMRDe6y0abn6-20" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="tADJbYhTkMRDe6y0abn6-1" source="tADJbYhTkMRDe6y0abn6-14" target="tADJbYhTkMRDe6y0abn6-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
